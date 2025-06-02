@@ -20,7 +20,7 @@ To use tailwind-normalize in your project, you have a few options:
       ```
 
 2. Download the File:
-   - Download the [preflight.css](https://github.com/tongrow/tailwind-normalize/raw/master/src/css/preflight.css) file.
+   - Download the [preflight.css](https://github.com/tongrow/tailwind-normalize/raw/master/packages/tailwindcss/preflight.css) file.
    - Place the downloaded file in your project's CSS directory.
    - Link to it in your HTML file:
       ```html
